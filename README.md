@@ -13,6 +13,9 @@ What was fixed
   - *Teleporter Here*
   - *Dispenser Here*
   - *Sentry Here*
+## If you want to know how it works, you can visit my server
+- [203.159.94.107:27015](http://203.159.94.107/meow.php?ip=203.159.94.107&port=27015)
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a82a703-7784-426d-8b30-7a5a5937d332" />
 
 # ConVar
