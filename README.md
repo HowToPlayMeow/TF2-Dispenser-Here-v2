@@ -20,6 +20,6 @@ What was fixed
 - `sm_disp_building` `"1"` **(Default)** - _Enable/Disable spawn the model building_
 - `sm_disp_blueprint` `"1"` **(Default)** - _Enable/Disable spawn the model blueprint_
 - `sm_disp_time` `"1"` **(Default)** - _Time between spawn the model_
-- `sm_disp_remove` `"10` **(Default)** - _Time to remove the model_
+- `sm_disp_remove` `"10"` **(Default)** - _Time to remove the model_
 - `sm_disp_limit` `"1"` **(Default)** - _Building per person_
 - `sm_disp_flag` `""` **(Default)** - _Admin flag required to use Dispenser Here_
