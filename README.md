@@ -22,4 +22,4 @@ What was fixed
 - `sm_disp_time` `"1"` **(Default)** - _Time between spawn the model_
 - `sm_disp_remove` `"10"` **(Default)** - _Time to remove the model_
 - `sm_disp_limit` `"1"` **(Default)** - _Building per person_
-- `sm_disp_flag` `""` **(Default)** - _Admin flag required to use Dispenser Here_
+- `sm_disp_flag` `""` **(Default)** - _Admin flag to use Dispenser Here_
